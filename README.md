@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Debora-Cuestas</h1>
+<h1 align="center">Hi 👋, I'm Debora Cuestas</h1>
 <h3 align="center">Full stack developer and Cybersecurity Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debora-cuestas&label=Profile%20views&color=0e75b6&style=flat" alt="debora-cuestas" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debora-cuestas" alt="debora-cuestas" /></a> </p>
 
-- 🔭 I’m currently working on **Semillero Latam**
+- 🔭 I’m currently working on **Semillero Latam and Beautiful Patterns**
 
 - 🌱 I’m currently learning **Full Stack (HTML, CSS, JS,POO, MongoDB, Node.js and ReactJS)**
 
@@ -22,8 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/deboracuestas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="deboracuestas" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/debora-cuestas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/debora-cuestas/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucdamqlw3xtfbxeiko6yncxa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucdamqlw3xtfbxeiko6yncxa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/debora-cuestas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debora-cuestas" height="30" width="40" /></a>
 <a href="https://discord.gg/http.deb#9807" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="http.deb#9807" height="30" width="40" /></a>
 </p>
 
@@ -35,3 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debora-cuestas&show_icons=true&locale=en" alt="debora-cuestas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debora-cuestas&" alt="debora-cuestas" /></p>
+
+
