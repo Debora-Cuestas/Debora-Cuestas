@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack (HTML, CSS, JS,POO, MongoDB, Node.js and ReactJS)**
 
-- 👯 I’m looking to collaborate on **Devs Jr**
+- 👯 I’m looking to collaborate with **Devs Jr**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Debora-Cuestas?tab=repositories](https://github.com/Debora-Cuestas?tab=repositories)
 
