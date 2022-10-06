@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debora-cuestas" alt="debora-cuestas" /></a> </p>
 
-- 🔭 I’m currently working on **Semillero Latam and Beautiful Patterns**
+- 🔭 I’m currently working on **Beautiful Patterns**
 
 - 🌱 I’m currently learning **Full Stack (HTML, CSS, JS,POO, MongoDB, Node.js and ReactJS)**
 
